@@ -312,7 +312,7 @@ pip install numpy scipy sounddevice yt-dlp pybind11
 **3. Clone the repository**
 
 ```cmd
-git clone https://github.com/yourusername/kudio.git
+git clone https://github.com/devarpanlohar/kudio.git
 cd kudio
 ```
 
