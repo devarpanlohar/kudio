@@ -540,7 +540,7 @@ kudio/
 MIT License
 
 ```
-Copyright (c) 2025 Kudio Contributors
+Copyright (c) 2026 Kudio Contributors
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
